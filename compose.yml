@@ -1,0 +1,5 @@
+services:
+  goservice-test:
+    image: demotest:latest
+    ports:
+      - 8080:8080
